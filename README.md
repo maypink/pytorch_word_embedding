@@ -1,1 +1,1 @@
-# pytorch_word_embadding
+# pytorch_word_embedding
